@@ -1,5 +1,5 @@
 ## Initial exploration
-- I wrote a small script "import gzip.py" in the exploration folder to download the first ~1000 lines of the table of contents file to understand the JSON structure, different fields and what they contain.
+- I wrote a small script "import gzip.py" in the exploration folder to download the first ~1000 lines of the table of contents file to understand the JSON structure, different fields and what they contain. I could not upload the exploration file to github due to size constraints.
 
 ## Answering key questions:
 1. How do you handle the file size and format efficiently, when the uncompressed file will exceed memory limitations on most systems?
